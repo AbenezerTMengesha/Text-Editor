@@ -1,5 +1,5 @@
 # Text Editor 
-Diployed Application:
+Diployed Application: https://notestaker1.herokuapp.com/
 
 ## Discription
 A PWA text editor which runs on the browser
